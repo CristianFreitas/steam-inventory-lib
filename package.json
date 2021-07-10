@@ -1,17 +1,22 @@
 {
   "name": "steam-inventory-lib",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Steam inventory",
   "main": "index.js",
+  "bin": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
+  "keywords": [
+    "steam-inventory-lib",
+    "steam-inventory-class"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/CristianFreitas/steam-inventory-lib.git"
   },
   "author": "Cristian Freitas",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/CristianFreitas/steam-inventory-lib/issues"
   },
