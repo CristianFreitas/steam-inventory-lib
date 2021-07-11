@@ -19,3 +19,7 @@ View steam inventory
 ### Executing program
 
 * node index.js
+
+npm package:
+
+https://www.npmjs.com/package/steam-inventory-lib
