@@ -26,4 +26,4 @@ const inventory = new Inventory({
     language: 'english', // language items
     count: '5000' // max quantity items
 })
-inventory.get();
+await inventory.get();
